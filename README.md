@@ -79,7 +79,7 @@ Search Screen
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="(https://sketch-cdn.imgix.net/assets/blog/wireframe-bandsintown%402x.png?ixlib=rb-4.1.0&fit=max&w=1920&q=95&auto=format&fm=png&s=185ca31f158331fea553a9b32e28f971)" width=600>
+<img src="https://sketch-cdn.imgix.net/assets/blog/wireframe-bandsintown%402x.png?ixlib=rb-4.1.0&fit=max&w=1920&q=95&auto=format&fm=png&s=185ca31f158331fea553a9b32e28f971" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
